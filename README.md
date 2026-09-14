@@ -1,9 +1,9 @@
 ![MRS Banner](banner.svg)
 
-### Independent researcher — mathematics, post-quantum cryptography, and computational systems
 
-I explore linear Diophantine representation systems and apply them to post-quantum
-authentication (MRS-AUTH) and deterministic algorithm design.
+
+I work on the mathematics behind deterministic systems — from linear Diophantine
+representation theory to a post-quantum authentication framework built on it (MRS-AUTH).
 
 **Research focus**
 - Linear Diophantine representation systems (the MRS(19,9) framework)
